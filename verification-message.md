@@ -1,0 +1,2 @@
+**Souhlasíteli s pravidly zareagujte na emoji <:evilpepe:857025231817015306> pro získání role <@&856866661863522334>, díky této roli si odemknete zbytek našeho Discordu.** Před odsouhlasením zásad naší komunitu, jste povini si přečíst všechny pravidla naší komunity v tomto kanálu. 
+Pokud nesouhlasíte s nasledujícími pravidli nebudete moci psát zprávy, číst zprávy a nebudete mít přístup do kanálu komunity. Pro používání tohoto Discord serveru musíte souhlasit.
