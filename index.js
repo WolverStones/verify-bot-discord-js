@@ -51,7 +51,7 @@ client.on("message", msg => {
     const embed = new Discord.RichEmbed();
 
     const welcomeTitle = `Vítej na ${msg.guild.name}!`;
-
+    embed.setColor('RANDOM')
     embed.addField(welcomeTitle, introMessageContent);
     embed.addField("🎗 Zásady komunity", communityGuidelinesContent);
     embed.addField("🔐 Získání ověření", verificationMessageContent);
@@ -88,7 +88,7 @@ client.on("messageReactionRemove", ({ message: { channel } }, user) => {
     channel.guild
       .fetchMember(user)
       .then(member => {
-        return member.removeRole(verified_role_id);
+        return member.removeRoles(verified_role_id);
       })
       .then(() => {
         console.log(
